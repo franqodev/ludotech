@@ -59,6 +59,8 @@ expo start
 * [Json Web Token (JWT)](https://jwt.io/) - Security
 * [Socket](https://socket.io/) - JavaScript library for realtime web applications
 * [Nodemailer](https://nodemailer.com/about/) - Node module for sending emails.
+* [Stripe](https://stripe.com/es-us) - Payment infrastructure
+* [Paypal](https://www.paypal.com/ar/home) - Payment infrastructure
 
 ## Contributors 🤝
 
