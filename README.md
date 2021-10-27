@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ludotech E-commerce
+# Ludotech E-commerce 🎲
 <img  width="60%" src="https://media.giphy.com/media/QjD9YfjDfm7nnKsOFL/giphy.gif" ></img>
 <br/>
 
